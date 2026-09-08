@@ -4,6 +4,15 @@ A single, self-contained prompt that turns Claude, ChatGPT, or any other capable
 
 No lawyer, no templates to fill in, no guessing which law applies. 🙌
 
+👉 **The prompt lives here: [`PROMPT.md`](PROMPT.md)**
+
+## 🚀 Usage
+
+1. Copy the entire contents of [`PROMPT.md`](PROMPT.md).
+2. Paste it into Claude, ChatGPT, or any other capable AI.
+3. Attach your receipt when asked. Answer the few questions the documents can't.
+4. Send the phase-1 letter. Keep the phase-2 kit ready — most of the time you won't need it. ✅
+
 ## ⚙️ How it works
 
 The prompt runs a deliberate two-phase strategy. Most refunds die because people skip straight to threats — this one doesn't.
@@ -23,13 +32,6 @@ If they refuse or stall, you get a second, prepared letter — same facts, still
 - 📜 the exact consumer-protection statutes for your country and situation, with article numbers;
 - 🏛️ the specific complaints you will file and with which named bodies — regulator, ombudsman, card issuer — if the refund isn't processed by a stated date;
 - 🪜 the full escalation ladder: formal complaint → consumer authority → card chargeback → small claims, with the deadlines that quietly expire while polite emails go back and forth.
-
-## 🚀 Usage
-
-1. Copy the entire contents of [`PROMPT.md`](PROMPT.md).
-2. Paste it into Claude, ChatGPT, or any other capable AI.
-3. Attach your receipt when asked. Answer the few questions the documents can't.
-4. Send the phase-1 letter. Keep the phase-2 kit ready — most of the time you won't need it. ✅
 
 ## 🌍 What's inside
 
