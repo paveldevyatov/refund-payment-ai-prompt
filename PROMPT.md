@@ -1,9 +1,3 @@
-# The refund prompt
-
-Copy everything below the line and paste it into Claude, ChatGPT, or any other capable AI. It is self-contained: the instructions and the legal reference the model needs are in one place. It interviews you first and writes nothing until you answer.
-
----
-
 I want a refund. Write me a demand letter that actually gets approved.
 
 The plan has two phases, and you should tell me this up front:
