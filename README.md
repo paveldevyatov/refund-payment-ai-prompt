@@ -11,7 +11,7 @@ No lawyer, no templates to fill in, no guessing which law applies. 🙌
 1. Copy the entire contents of [`PROMPT.md`](PROMPT.md).
 2. Paste it into Claude, ChatGPT, or any other capable AI.
 3. Attach your receipt when asked. Answer the few questions the documents can't.
-4. Send the phase-1 letter. Keep the phase-2 kit ready — most of the time you won't need it. ✅
+4. Send the phase-1 letter where the AI tells you — it finds the company's real support channel itself. If they refuse or stall, come back for the escalation letter. ✅
 
 ## ⚙️ How it works
 
@@ -27,7 +27,7 @@ The AI does the homework before writing a single line:
 
 ### ⚖️ Phase 2 — Escalation, with the law behind it
 
-If they refuse or stall, you get a second, prepared letter — same facts, still polite, but now resting on every legal method of recovery that fits your case:
+If they refuse or stall, ask for the second letter — same facts, still polite, but now resting on every legal method of recovery that fits your case:
 
 - 📜 the exact consumer-protection statutes for your country and situation, with article numbers;
 - 🏛️ the specific complaints you will file and with which named bodies — regulator, ombudsman, card issuer — if the refund isn't processed by a stated date;

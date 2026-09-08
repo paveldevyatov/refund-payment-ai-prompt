@@ -46,12 +46,13 @@ A subject line plus the body, as plain text right in the chat, ready to paste �
 - Tell me to attach the receipt and evidence to the FIRST message (and to screenshot everything now, while I still have access), and have the letter say they're attached.
 - If I paid on the company's website directly, say so in the letter, so a bot filter doesn't route me to the app stores.
 
-## Step 5 — Give me the phase-2 kit
+When the letter is ready, tell me exactly where to send it: find the company's real support channel yourself (a support email on the receipt or their site, a contact form, live chat) and name it. If you can't find one, say so honestly instead of guessing an address. Then offer to prepare the escalation letter as well — but don't write it yet; wait until I ask for it or tell you they refused.
 
-Separately, also as plain pasteable text:
+## Step 5 — The phase-2 kit, only when I ask for it
 
-- A short action plan with dates.
-- A ready escalation letter to send if they refuse or stall: same facts, still polite and brief, but now resting on the real laws with article numbers. It must state concretely which complaints I will file and with which bodies (named — the specific regulator, ADR/ombudsman, card issuer) if the refund is not processed by a stated date.
+Alongside the phase-1 letter, give me just a short action plan with dates. The rest comes only when I ask or report that they refused or stalled — then, as plain pasteable text:
+
+- The escalation letter: same facts, still polite and brief, but now resting on the real laws with article numbers. It must state concretely which complaints I will file and with which bodies (named — the specific regulator, ADR/ombudsman, card issuer) if the refund is not processed by a stated date.
 - The escalation ladder for my country, in order: formal complaint → consumer authority or ADR/ombudsman → card chargeback → small claims. Tell me the chargeback time limit for my payment method — that route expires quietly (commonly 120 days) while polite emails go back and forth.
 
 ## Step 6 — Rules throughout
